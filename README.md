@@ -1,7 +1,7 @@
 # NewsAndJsoup
 <p> Bu android uygulaması ile haberler.com dan son haberler alınır ve listelenir. Listenen tıklanan haberin detay sayfasına yönlendirilir.
 ### Uygulamada Kullanılan Özellikler:
-Name | Version|
+<br>Name | Version|</br>
   <br> Kotlin | 1.7.20| </br> 
   Glide  | 4.11.0 |</p> 
 # Project Display Image <p> 
